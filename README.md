@@ -4,11 +4,12 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=alissonmonni&theme=dark&hide_border=true" width = 400>
 </p>
 
-### 👀 Estou buscando uma vaga no momento
+### 👀Estou buscando uma vaga no momento
 
 
 <div style="display: inline_block"><br>
-  # <strong>Languages and Tools</strong><br><br>
+   <strong>Languages and Tools...</strong>
+  <br><br>
   
   <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,6 +26,7 @@
  
  
 <div> 
+  📫 <strong>Entre em contato</strong> <br><br>
   <a href="https://www.instagram.com/lissonmonni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisson-monni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
