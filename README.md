@@ -4,6 +4,9 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=alissonmonni&theme=dark&hide_border=true" width = 400>
 </p>
 
+### Estou buscando uma vaga no momento
+
+## Languages and Tools
 <div style="display: inline_block"><br>
   
   <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
